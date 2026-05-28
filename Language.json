@@ -9,6 +9,46 @@
         "logout": "Dekonekte",
         "settings": "Anviwònman"
       }
+    },
+    {
+      "code": "fr",
+      "name": "Français",
+      "translations": {
+        "welcome": "Bienvenue dans l'application",
+        "login": "Se connecter",
+        "logout": "Se déconnecter",
+        "settings": "Paramètres"
+      }
+    },
+    {
+      "code": "en",
+      "name": "English",
+      "translations": {
+        "welcome": "Welcome to the application",
+        "login": "Log In",
+        "logout": "Log Out",
+        "settings": "Settings"
+      }
+    },
+    {
+      "code": "es",
+      "name": "Español",
+      "translations": {
+        "welcome": "Bienvenido a la aplicación",
+        "login": "Iniciar sesión",
+        "logout": "Cerrar sesión",
+        "settings": "Ajustes"
+      }
+    },
+    {
+      "code": "pt",
+      "name": "Português",
+      "translations": {
+        "welcome": "Bem-vindo ao aplicativo",
+        "login": "Entrar",
+        "logout": "Sair",
+        "settings": "Configurações"
+      }
     }
   ]
 }

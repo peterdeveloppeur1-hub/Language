@@ -1,4 +1,4 @@
-    {
+"supported_languages":[    {
         "code": "ht",
         "name": "Kreyòl Ayisyen",
         "flag_url": "https://githubusercontent.com",
@@ -8,4 +8,4 @@
             "logout": "Dekonekte",
             "settings": "Anviwònman"
         }
-    }
+    ]}
